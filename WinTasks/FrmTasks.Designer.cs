@@ -41,7 +41,7 @@
             // 
             // btnIniciar
             // 
-            this.btnIniciar.Location = new System.Drawing.Point(25, 22);
+            this.btnIniciar.Location = new System.Drawing.Point(39, 37);
             this.btnIniciar.Name = "btnIniciar";
             this.btnIniciar.Size = new System.Drawing.Size(75, 23);
             this.btnIniciar.TabIndex = 0;
@@ -51,69 +51,69 @@
             // 
             // pb1
             // 
-            this.pb1.Location = new System.Drawing.Point(26, 64);
+            this.pb1.Location = new System.Drawing.Point(39, 80);
             this.pb1.Name = "pb1";
-            this.pb1.Size = new System.Drawing.Size(74, 23);
+            this.pb1.Size = new System.Drawing.Size(100, 23);
             this.pb1.TabIndex = 1;
             // 
             // pb2
             // 
-            this.pb2.Location = new System.Drawing.Point(115, 64);
+            this.pb2.Location = new System.Drawing.Point(172, 80);
             this.pb2.Name = "pb2";
-            this.pb2.Size = new System.Drawing.Size(74, 23);
+            this.pb2.Size = new System.Drawing.Size(100, 23);
             this.pb2.TabIndex = 2;
             // 
             // pb3
             // 
-            this.pb3.Location = new System.Drawing.Point(204, 64);
+            this.pb3.Location = new System.Drawing.Point(299, 80);
             this.pb3.Name = "pb3";
-            this.pb3.Size = new System.Drawing.Size(74, 23);
+            this.pb3.Size = new System.Drawing.Size(100, 23);
             this.pb3.TabIndex = 3;
             // 
             // pb4
             // 
-            this.pb4.Location = new System.Drawing.Point(300, 64);
+            this.pb4.Location = new System.Drawing.Point(425, 80);
             this.pb4.Name = "pb4";
-            this.pb4.Size = new System.Drawing.Size(74, 23);
+            this.pb4.Size = new System.Drawing.Size(100, 23);
             this.pb4.TabIndex = 4;
             // 
             // txtConteo1
             // 
-            this.txtConteo1.Location = new System.Drawing.Point(26, 107);
+            this.txtConteo1.Location = new System.Drawing.Point(39, 122);
             this.txtConteo1.Multiline = true;
             this.txtConteo1.Name = "txtConteo1";
-            this.txtConteo1.Size = new System.Drawing.Size(74, 230);
+            this.txtConteo1.Size = new System.Drawing.Size(100, 301);
             this.txtConteo1.TabIndex = 5;
             // 
             // txtConteo2
             // 
-            this.txtConteo2.Location = new System.Drawing.Point(115, 107);
+            this.txtConteo2.Location = new System.Drawing.Point(172, 122);
             this.txtConteo2.Multiline = true;
             this.txtConteo2.Name = "txtConteo2";
-            this.txtConteo2.Size = new System.Drawing.Size(74, 230);
+            this.txtConteo2.Size = new System.Drawing.Size(100, 301);
             this.txtConteo2.TabIndex = 6;
             // 
             // txtConteo3
             // 
-            this.txtConteo3.Location = new System.Drawing.Point(204, 107);
+            this.txtConteo3.Location = new System.Drawing.Point(299, 122);
             this.txtConteo3.Multiline = true;
             this.txtConteo3.Name = "txtConteo3";
-            this.txtConteo3.Size = new System.Drawing.Size(74, 230);
+            this.txtConteo3.Size = new System.Drawing.Size(100, 301);
             this.txtConteo3.TabIndex = 7;
             // 
             // txtConteo4
             // 
-            this.txtConteo4.Location = new System.Drawing.Point(300, 107);
+            this.txtConteo4.Location = new System.Drawing.Point(425, 122);
             this.txtConteo4.Multiline = true;
             this.txtConteo4.Name = "txtConteo4";
-            this.txtConteo4.Size = new System.Drawing.Size(74, 230);
+            this.txtConteo4.Size = new System.Drawing.Size(100, 301);
             this.txtConteo4.TabIndex = 8;
             // 
             // FrmTasks
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(400, 366);
+            this.ClientSize = new System.Drawing.Size(566, 450);
             this.Controls.Add(this.txtConteo4);
             this.Controls.Add(this.txtConteo3);
             this.Controls.Add(this.txtConteo2);
